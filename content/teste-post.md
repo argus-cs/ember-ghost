@@ -5,7 +5,7 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: Argus
+author: ghost
 date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
 tags:
   - teste
