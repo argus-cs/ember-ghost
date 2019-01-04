@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Ember Ghost',
+      title: 'ArgusPost',
       description: 'Static Blog System - Built with Ember',
       coverImage: '/images/blog-cover.jpg',
 
@@ -35,6 +35,9 @@ module.exports = function(environment) {
         label: 'Built by Chris Manson',
         route: 'page',
         id: 'chris-manson'
+      }, {
+        label: 'teste',
+        route: 'index'
       }]
     }
   };
